@@ -1,9 +1,5 @@
 # 钉钉提供的内网穿透工具
 
-因安全合规要求，该工具已经下线，推荐采用最新推出的 Stream 模式 5分钟快速接入：
-
-[点击链接，加入Stream模式共创群交流](https://open-dingtalk.github.io/developerpedia/docs/explore/support/?via=moon-group)
-
 本仓库及以下说明来自钉钉官方开发文档。
 
 > 注意：鉴于很多开发者在临时体验开发时往往没有公网域名或者公网IP，本工具提供了一个公网代理服务，目的是方便开发测试。
